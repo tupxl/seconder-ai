@@ -1,2 +1,3 @@
 # seconder-ai
-This Repo for my final year project
+This Repo for my final year project.
+cooming soon...
